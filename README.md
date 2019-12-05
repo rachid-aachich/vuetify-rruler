@@ -1,4 +1,4 @@
-# Vutify Rruler.
+# Vuetify Rruler.
 An rrule generator for vuetify with UI components that makes it easier to generate an rrule for scheduling cron jobs.
 
 ## Project setup
